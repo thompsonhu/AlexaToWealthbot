@@ -1,0 +1,47 @@
+﻿open robot advisor
+register as client
+my full name is prt sysrq
+my nick name is prtsys
+set dellsysatgmail.com as account number
+set zenbk20190505 as my password
+my birthday is 1999 JAN 14
+i live in Clear water Bay in Hong Kong
+my annual income is 75000
+my net worth range is 51000
+my estimated income tax bracket is 10 percent
+i'm employed now
+single
+my phone number is 852 2201 2937
+i would sell part of them
+i prefer plus to minus five percentage
+i prefer higher return
+yes i will
+open a new account
+personal account
+my estimated value is 230021
+make contributions
+the monthly contributions value is 15010
+
+# ============= Test step 1 ============== #
+open robot advisor
+log in
+my email is dellspatgmail.com
+my password is Zenbk20190504
+
+# ============= Test step 2 ============== #
+open robot advisor
+log in
+my email is dellsysatgmail.com
+my password is Zenbk20190505
+
+# ============= Test step 3 ============== #
+open robot advisor
+log in
+my email is zenhpatgmail.com
+my password is Zenbk20190503
+
+# =========== Test portfolio page =========== #
+open robot advisor
+log in
+my email is dellhpatgmail.com
+my password is Dell20190502
