@@ -3,7 +3,7 @@ This repository aims to using Alexa to finish whole process in wealthbot.io. Sin
 
 ------
 
-**If you find this code or this tutorial useful, would you please star this github project.**
+**If you find this repo useful, would you please star this github project. :thumbsup:**
 
 # Upload files into AWS Lambda
 Supposed that you are familiar to Alexa and lambda function, you may git this repository into your laptop firstly.
@@ -14,11 +14,19 @@ Next, you compress all files except `Demo` and 'alexa_index' into `request.zip` 
 
 ![alt-text](uploadZip.PNG "demo")
 
-# Copy `alexa_index` file into your json editor in Alexa
+# Set Alexa intent and slot
 After uploading all important files into your AWS lambda, you also need to copy all code in `alexa_index` into your json editor. Endpoint setting is also important to you. :collision:
 
-# Now, use Test to talk with Alexa! :satisfied:
-You can talk with Alexa in Test part now and you also can refer to `Demo` file which contains sentences that we used to communicate with Alexa.
+# Now, use Test to talk with Alexa!
+You can talk with Alexa in Test part now  :satisfied: and you also can refer to `Demo` file which contains sentences that we used to communicate with Alexa.
+
+You can open this alexa skill and try to register an account in wealthbot like this:
+```
+User: open robot advisor
+Alexa: Welcome to Robot Advisor! It's my pleasure to meet you!
+User: register as client
+...
+```
 
 # TODO
 ------
