@@ -1,0 +1,47 @@
+﻿open robot advisor
+register as client
+my full name is tony stark
+my nick name is ironman
+set team5atstark.com as account number
+set team520190509 as my password
+my birthday is 1991 JAN 1
+i live in Clear water Bay in Hong Kong
+my annual income is 75000
+my net worth range is 51000
+my estimated income tax bracket is 5 percent
+i'm employed now
+i'm single
+my phone number is 852 2201 2937
+i would sell part of them
+i prefer plus to minus five percentage
+i prefer higher return
+yes i will
+open a new account
+personal account
+my estimated value is 60000
+make contributions
+the monthly value is 20000
+
+# ============= Test step 1 ============== #
+open robot advisor
+log in
+my email is pepperatiron.com
+my password is Pepper20190506
+
+# ============= Test step 2 ============== #
+open robot advisor
+log in
+my email is tonyatiron.com
+my password is pepper20190506
+
+# ============= Test step 3 ============== #
+open robot advisor
+log in
+my email is moganatiron.com
+my password is pepper20190506
+
+# =========== Test portfolio page =========== #
+open robot advisor
+log in
+my email is starkatiron.com
+my password is pepper20190506
