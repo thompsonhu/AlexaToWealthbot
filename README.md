@@ -18,13 +18,18 @@ Next, you compress all files except `Demo` and 'alexa_index' into `request.zip` 
 After uploading all important files into your AWS lambda, you also need to copy all code in `alexa_index` into your json editor. Endpoint setting is also important to you. :collision:
 
 # Now, use Test to talk with Alexa!
-You can talk with Alexa in Test part now  :satisfied: and you also can refer to `Demo` file which contains sentences that we used to communicate with Alexa.
+You can talk with Alexa in Test part now :satisfied: and you also can refer to `Demo` file which contains sentences that we used to communicate with Alexa.
+
+Open Robot Advisor         |  Get Portfolio
+:-------------------------:|:-------------------------:
+![](startGIF.gif)          |  ![](finishGIF.gif)
 
 You can open this alexa skill and try to register an account in wealthbot like this:
 ```
 User: open robot advisor
-Alexa: Welcome to Robot Advisor! It's my pleasure to meet you!
-User: register as client
+Alexa: Welcome to Robot Advisor! It's my pleasure to meet you! 
+        Would you want to register or log in?
+User: register
 ...
 ```
 
@@ -33,5 +38,8 @@ User: register as client
 - [x] alexa json file
 - [x] basic function (change information in Alexa into correct format for weathbot)
 - [x] upload request module in AWS Lambda
+- [x] request function (For web scapying)
 - [ ] lambda function
-- [ ] request function (For web scapying)
+
+# Reference
+[KeithGalli. Alexa-Python](https://github.com/KeithGalli/Alexa-Python/blob/master/final_lambda_code.py)

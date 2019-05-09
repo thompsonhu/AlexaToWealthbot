@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author: Thompson Hu & Wesley Wang
+Created on Thu May  2 00:54:46 2019
+
+@author: Thompson
 
 This script aims to dealing with the format of input data to post data easily
 """
@@ -93,7 +95,7 @@ def Q1Format(Q1):
         q1Out = '23'
     elif Q1.find('sell part') != -1 or Q1.find('sell some') != -1:
         q1Out = '24'
-    elif Q1.find('buy') != -1:
+    elif Q1.find('buy') != -1 or Q1.find('invest') != -1:
         q1Out = '25'
     elif Q1.find('keep') != -1:
         q1Out = '26'

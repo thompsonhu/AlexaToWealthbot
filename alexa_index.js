@@ -49,6 +49,10 @@
                         }
                     ],
                     "samples": [
+                        "the password is {password}",
+                        "my email address is {email}",
+                        "email is {email} ",
+                        "password is {password}",
                         "please log in",
                         "my password is {password}",
                         "my email is {email}",
@@ -96,11 +100,22 @@
                         }
                     ],
                     "samples": [
-                        "{martial}",
+                        "it's {tax} precent",
+                        "tax bracket is {tax} percent",
+                        "my estimated tax bracket is {tax} percent",
+                        "i'm {martial}",
+                        "i am {martial}",
+                        "i am {employment} now",
+                        "i am {employment}",
+                        "net worth is {networth}",
+                        "annual income is {income}",
+                        "phone number is {phone}",
+                        "I was born on {birthday}",
+                        "birthday is {birthday}",
                         "i'm {employment} now",
                         "my net worth is {networth}",
                         "my annual income is {income}",
-                        "my estimated income tax bracket is {tax} percent",
+                        "my estimated {income} tax bracket is {tax} percent",
                         "my phone number is {phone}",
                         "i live in {address} in {city}",
                         "my birthday is {birthday}"
@@ -127,6 +142,9 @@
                         }
                     ],
                     "samples": [
+                        "i would choose {returntype} return",
+                        "i would choose {returntype}",
+                        "{yesno} i won't",
                         "i'm interested in {returntype} return",
                         "{yesno} i will not",
                         "{yesno} i will",
@@ -152,10 +170,10 @@
                         }
                     ],
                     "samples": [
-                        "my contributions value is {monthcontrivalue}",
+                        "my monthly value is {monthcontrivalue}",
+                        "the estimated value is {estimatedvalue}",
+                        "the monthly value is {monthcontrivalue}",
                         "{stepthree}",
-                        "monthly contributions value is {monthcontrivalue}",
-                        "the monthly contributions value is {monthcontrivalue}",
                         "estimated value is {estimatedvalue}",
                         "my estimated value is {estimatedvalue}"
                     ]
@@ -185,6 +203,10 @@
                         }
                     ],
                     "samples": [
+                        "set {email} as the account number",
+                        "set {email} as my account number",
+                        "set {password} as password",
+                        "i want to register",
                         "register",
                         "set {password} as my password",
                         "my nick name is {nickname}",
