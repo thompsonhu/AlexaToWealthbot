@@ -39,7 +39,10 @@ User: register
 - [x] basic function (change information in Alexa into correct format for weathbot)
 - [x] upload request module in AWS Lambda
 - [x] request function (For web scapying)
-- [ ] lambda function
+- [x] lambda function
+
+# Acknowledgement
+This project is the final project of MAFS6010V in HKUST.
 
 # Reference
 [KeithGalli. Alexa-Python](https://github.com/KeithGalli/Alexa-Python/blob/master/final_lambda_code.py)

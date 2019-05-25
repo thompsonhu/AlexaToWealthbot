@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  2 00:54:46 2019
-
-@author: Thompson
+@author: Thompson Hu
 
 This script aims to dealing with the format of input data to post data easily
 """
